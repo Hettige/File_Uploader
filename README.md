@@ -1,2 +1,4 @@
 # File_Uploader
-An web base application to upload, view &amp; delete uploaded files by using PHP &amp; MySQL database
+A web base application to upload, view & delete uploaded files by using PHP & MySQL database. This is a small part that will really useful for big web base applications. Full source code is provided with database. Used Languages are : HTML PHP CSS JS.
+First download and extract the ZIP file. Then you will get the relevant database and the application. Open your SQL server (eg:- WAMP SERVER) and create a new database called “fileupload”, then import the database that I provided, database name is “fileupload”. Then copy and paste the application folder (File_Upload) in your server folder (pathway as eg: C:\wamp\www\File_Upload). Now open your localhost and type : localhost/File_Upload/index.php . This will load your home page to upload any type of a file format. REMEMBER there is a file called “upload” in the application. It should be there as it is, because it is the location that all the files get stored & that location is directed to database.
+I already uploaded few images to show how it works. Now you can Upload View or Delete as you wish !
